@@ -54,7 +54,7 @@ F1 score = 2 * ( Precision * Sensitivity) / (Precision + Sensitivity)
 
 ![RO](AddRes/1RandomOS.png)
 
-Balanced ccuracy score is 64%.
+Balanced accuracy score is 64%.
 The high_risk precision is 1% and Sensitivity is 62%.
 The low_risk precision is 100% and Sensitivity is 68%.
 
@@ -64,7 +64,7 @@ The low_risk precision is 100% and Sensitivity is 68%.
 ![Sm](AddRes/2SMOTE.png)
 
 
-Balanced ccuracy score is 66%.
+Balanced accuracy score is 66%.
 The high_risk precision is 1% and Sensitivity is 62%.
 The low_risk precision is 100% and Sensitivity is 69%.
 
